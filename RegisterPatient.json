@@ -1,12 +1,12 @@
-{
-  "surname": "string",
-  "otherNames": "string",
-  "gender": "string",
-  "phoneNumber": "string",
-  "address": "string",
-  "emergencyContact": {
-    "name": "string",
-    "phoneNumber": "string",
-    "relation": "string"
+const Patient = new Schemah{
+  Surname: String,
+  OtherNames: String,
+  Gender: String,
+  PhoneNumber: String,
+  Address: String,
+  EemergencyContact: {
+    Name: String"'
+    phoneNumber: String,
+    Relation: String,
   }
 }
