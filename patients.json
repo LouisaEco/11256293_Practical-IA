@@ -1,0 +1,21 @@
+[
+  {
+    "patientId": "string",
+    "surname": "string",
+    "otherNames": "string",
+    "gender": "string",
+    "phoneNumber": "string"
+  },
+
+  {
+    "patientId": "string",
+    "surname": "string",
+    "otherNames": "string",
+    "gender": "string",
+    "phoneNumber": "string"
+  },
+
+  // ... other patients
+
+
+]

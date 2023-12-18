@@ -1,0 +1,11 @@
+{
+  "encounterId": "string",
+  "bloodPressure": "string",
+  "temperature": "string",
+  "pulse": "string",
+  "spO2": "string"
+}
+
+{
+  "message": "Vitals submitted successfully"
+}
